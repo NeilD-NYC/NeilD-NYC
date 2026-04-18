@@ -13,6 +13,8 @@ I spent two decades on the buy side — reviewing 2,000+ alternative investment 
 - 🔴 Live MCP server on [Smithery](https://smithery.ai/servers/ndatta18-b06a/altbots)
 - 📄 Full tearsheet pipeline: ingestion → agents → assembler → ReportLab PDF
 - 🤖 Agent fleet: Carl (research), Scout (diligence), Tony (orchestration), Alice (IR)
+- Chief Of Staff Agent - Alice - Built for investment professoionals
+- Automated weekly equity research via n8n
 
 ---
 
