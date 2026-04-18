@@ -1,6 +1,6 @@
 # Neil Datta
 
-**Institutional investor. AI builder. 20+ years in alternative investments.**
+**Institutional investor. AI builder. 15+ years in alternative investments.**
 
 I spent two decades on the buy side — reviewing 2,000+ alternative investment managers, deploying $9B+ across asset classes, and running risk and diligence at a $24B multi-family office. Now I build AI infrastructure for the same workflows I used to do by hand.
 
