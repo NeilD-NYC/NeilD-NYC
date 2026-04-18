@@ -2,7 +2,7 @@
 
 **Institutional investor. AI builder. 15+ years in alternative investments.**
 
-I spent two decades on the buy side — reviewing 2,000+ alternative investment managers, deploying $9B+ across asset classes, and running risk and diligence at a $24B multi-family office. Now I build AI infrastructure for the same workflows I used to do by hand.
+I spent 15 years on the buy side, reviewing 2,000+ alternative investment managers, deploying $9B+ across asset classes, and running risk and diligence at a $24B multi-family office. Now I build AI infrastructure for the same workflows I used to do by hand.
 
 ---
 
@@ -10,9 +10,9 @@ I spent two decades on the buy side — reviewing 2,000+ alternative investment 
 
 **[AltBots](https://altbots.io)** — AI-powered institutional research platform for alternative investment managers. Generates hedge fund and PE tearsheets via an agentic pipeline: SEC filings, sanctions screening, personnel intelligence, and web signals — assembled into a structured 2-page PDF brief.
 
-- 🔴 Live MCP server on [Smithery](https://smithery.ai/servers/ndatta18-b06a/altbots)
-- 📄 Full tearsheet pipeline: ingestion → agents → assembler → ReportLab PDF
-- 🤖 Agent fleet: Carl (research), Scout (diligence), Tony (orchestration), Alice (IR)
+- Live MCP server on [Smithery](https://smithery.ai/servers/ndatta18-b06a/altbots)
+- Full tearsheet pipeline: ingestion → agents → assembler → ReportLab PDF
+- Agent fleet: Carl (research), Scout (diligence), Tony (orchestration), Alice (IR)
 - Chief Of Staff Agent - Alice - Built for investment professoionals
 - Automated weekly equity research via n8n
 
