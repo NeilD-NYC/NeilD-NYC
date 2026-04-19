@@ -12,9 +12,12 @@ I spent 15 years on the buy side, reviewing 2,000+ alternative investment manage
 
 - Live MCP server on [Smithery](https://smithery.ai/servers/ndatta18-b06a/altbots)
 - Full tearsheet pipeline: ingestion → agents → assembler → ReportLab PDF
-- Agent fleet: Carl (research), Scout (diligence), Tony (orchestration), Alice (IR)
+- Agent fleet: Carl (research), Scout (underwriting/diligence), Tony (Ops), Alice (Marketing/IR)
 - Chief Of Staff Agent - Alice - Built for investment professoionals
-- Automated weekly equity research via n8n
+- Networking.AI.live - Augmented reality (Meta glasses + Facial recognition + Linkedin) to scan a room and determine who to network with
+- Automated weekly equity research via n8n automations
+- Free Idea Farmer - Zero cost autonomous Reddit/Youtube/Twitter scraper -> autoresearch
+- Bark.AI - Autonomous Rover to patrol multi-acre properties like a guard dog  
 
 ---
 
