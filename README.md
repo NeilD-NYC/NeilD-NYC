@@ -17,7 +17,7 @@ I spent 15 years on the buy side, reviewing 2,000+ alternative investment manage
 - Networking.AI.live - Augmented reality (Meta glasses + Facial recognition + Linkedin) to scan a room and determine who to network with
 - Automated weekly equity research via n8n automations
 - Free Idea Farmer - Zero cost autonomous Reddit/Youtube/Twitter scraper -> autoresearch
-- Bark.AI - Autonomous Rover to patrol multi-acre properties like a guard dog  
+- Bark.AI - Autonomous Rover with onboard LLM and sensory array to patrol multi-acre properties like a guard dog  
 
 ---
 
