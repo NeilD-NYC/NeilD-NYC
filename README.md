@@ -6,10 +6,9 @@ I spent 15 years on the buy side, reviewing 2,000+ alternative investment manage
 
 ---
 
-### What I'm Building
+### Current Projects
 
-**[AltBots](https://altbots.io)** — AI-powered institutional research platform for alternative investment managers. Generates hedge fund and PE tearsheets via an agentic pipeline: SEC filings, sanctions screening, personnel intelligence, and web signals — assembled into a structured 2-page PDF brief.
-
+— AI-powered institutional research platform for alternative investment managers. Generates an IC-quality report on a hedge fund, private equity firm or venture capitalist in  minutes rather than days via an agentic pipeline: SEC filings, sanctions screening, personnel intelligence, and web signals — assembled into a structured PDF brief.
 - Live MCP server on [Smithery](https://smithery.ai/servers/ndatta18-b06a/altbots)
 - Full tearsheet pipeline: ingestion → agents → assembler → ReportLab PDF
 - Agent fleet: Carl (research), Scout (underwriting/diligence), Tony (Ops), Alice (Marketing/IR)
