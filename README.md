@@ -41,6 +41,7 @@ I spent 15 years on the buy side, reviewing 2,000+ alternative investment manage
 | 🏦 | MD & Global Head of Risk & Diligence — Optima/Forbes Family Trust ($24B MFO) |
 | 📊 | 2,000+ manager reviews · 500+ investments closed · $9B+ deployed |
 | 🤖 | Building AI automation for institutional finance since 2022 |
+| 🤖 | Co-Founder/CEO of Meritas (2021-2023), VC-backed Fintech | Mobile platform for equity & crypto trading|
 | 🏙️ | Based in New York |
 
 ---
