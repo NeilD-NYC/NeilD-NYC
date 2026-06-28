@@ -1,38 +1,27 @@
 # Neil Datta
 
-**Institutional investor. AI builder. 15+ years in alternative investments.**
+**Institutional investor. AI builder. 15+ years in alternative investments.
 
-I spent 15 years on the buy side, reviewing 2,000+ alternative investment managers, deploying $9B+ across asset classes, and running risk and diligence at a $24B multi-family office. Now I build AI infrastructure for the same workflows I used to do by hand.
+For 15 years I reviewed alternative investment managers and ran risk and diligence at a multi-family office overseeing $24B+ across asset classes, 2,000+ manager reviews spanning hedge funds, private equity and credit. I sat on the investment board of a $1.5B alternatives program for a decade, was invited to train SEC examiners on hedge fund due diligence after Madoff, and have been quoted in the Wall Street Journal, on Bloomberg and in Reuters.
+Now I build the AI systems that run those workflows. 
 
----
+What I have built
 
-### Current Projects
+Institutional research platform
+Produces an IC-grade diligence brief on a hedge fund, private equity firm or venture manager in minutes instead of days. An agentic pipeline pulls SEC filings, runs sanctions screening, gathers personnel intelligence and web signals, then assembles a structured PDF.
 
-— AI-powered institutional research platform for alternative investment managers. Generates an IC-quality report on a hedge fund, private equity firm or venture capitalist in  minutes rather than days via an agentic pipeline: SEC filings, sanctions screening, personnel intelligence, and web signals — assembled into a structured PDF brief.
-- Live MCP server on [Smithery](https://smithery.ai/servers/ndatta18-b06a/altbots)
-- Full tearsheet pipeline: ingestion → agents → assembler → ReportLab PDF
-- Agent fleet: Carl (research), Scout (underwriting/diligence), Tony (Ops), Alice (Marketing/IR)
-- LangChain Agent Swarm - coordinated fleet of agents working towards one big goal a billion tiny steps at a time
-- Chief Of Staff Agent - Built for professional investors
-- Networking.AI.live - Augmented reality (Meta glasses + Facial recognition + Linkedin) to scan a room and determine who to network with
-- Automated weekly equity research via n8n automations
-- Free Idea Farmer - Zero cost autonomous Reddit/Youtube/Twitter scraper -> autoresearch
-- Bark.AI - Autonomous Rover with onboard LLM and sensory array to patrol multi-acre properties like a guard dog  
 
----
+Live MCP server on Smithery: (https://smithery.ai/servers/ndatta18-b06a/altbots)
+Architecture: ingestion, multi-agent extraction, assembler, ReportLab PDF generation
+Built on Python, FastAPI, Qdrant, Anthropic Claude, n8n and DigitalOcean
 
-### Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Anthropic](https://img.shields.io/badge/-Anthropic%20Claude-191919?style=flat)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Qdrant](https://img.shields.io/badge/-Qdrant-DC244C?style=flat)
-![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+Automated equity research
+A weekly single-name research pipeline orchestrated in n8n that pulls, summarizes and formats analysis with no manual intervention.
 
----
+Stack
+
+Python · Anthropic Claude · OpenAI · Qdrant · FastAPI · n8n · DigitalOcean · React
 
 ### Background
 
