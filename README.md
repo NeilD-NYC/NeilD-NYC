@@ -1,41 +1,40 @@
 # Neil Datta
 
-**Institutional investor. AI builder. 15+ years in alternative investments.
+**Alternative investments × artificial intelligence. 20+ years on the institutional buy side; now building the AI that does the diligence.**
 
-For 15 years I reviewed alternative investment managers and ran risk and diligence at a multi-family office overseeing $24B+ across asset classes, 2,000+ manager reviews spanning hedge funds, private equity and credit. I sat on the investment board of a $1.5B alternatives program for a decade, was invited to train SEC examiners on hedge fund due diligence after Madoff, and have been quoted in the Wall Street Journal, on Bloomberg and in Reuters.
-Now I build the AI systems that run those workflows. 
+I spent two decades underwriting hedge fund, private equity, credit and venture managers, including 13 years as Managing Director and Global Head of Risk and Diligence at Optima Asset Management / Forbes Family Trust, a large multi-family office. Over that time I completed 2,000+ manager reviews, closed 500+ investments, deployed $3B+ and seeded more than two dozen emerging managers, several of which grew past $1B. I was invited to train SEC examiners on hedge fund due diligence after Madoff, and have been quoted in The Wall Street Journal, Bloomberg and Reuters.
 
-What I have built
+Today I build AI systems for investment research, due diligence and the alternatives industry.
 
-Institutional research platform
-Produces an IC-grade diligence brief on a hedge fund, private equity firm or venture manager in minutes instead of days. An agentic pipeline pulls SEC filings, runs sanctions screening, gathers personnel intelligence and web signals, then assembles a structured PDF.
-
-
-Live MCP server on Smithery: (https://smithery.ai/servers/ndatta18-b06a/altbots)
-Architecture: ingestion, multi-agent extraction, assembler, ReportLab PDF generation
-Built on Python, FastAPI, Qdrant, Anthropic Claude, n8n and DigitalOcean
-
-
-Automated equity research
-A weekly single-name research pipeline orchestrated in n8n that pulls, summarizes and formats analysis with no manual intervention.
-
-Stack
-
-Python · Anthropic Claude · OpenAI · Qdrant · FastAPI · n8n · DigitalOcean · React
-
-### Background
-
-| | |
-|---|---|
-| 🏦 | MD & Global Head of Risk & Diligence — Optima/Forbes Family Trust ($24B MFO) |
-| 📊 | 2,000+ manager reviews · 500+ investments closed · $9B+ deployed |
-| 🤖 | Building AI automation for institutional finance since 2022 |
-| 🤖 | Co-Founder/CEO of Meritas (2021-2023), VC-backed Fintech | Mobile platform for equity & crypto trading|
-| 🏙️ | Based in New York |
+🌐 **Portfolio and case studies: [datta.si](https://datta.si)**
 
 ---
 
-### Connect
+### Selected work
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fneildatta-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/neildatta)
-[![AltBots](https://img.shields.io/badge/AltBots-altbots.io-black?style=flat)](https://altbots.io)
+| | |
+|---|---|
+| **Project Jasmine** | Agentic private credit and litigation finance underwriting engine for a US family office. Turns court, police and medical records into a bid budget at target IRR; underwriting time cut from weeks to minutes. In production. |
+| **BioAlpha** | Research-driven biotech equity program on Databricks, built on the 13F filings of specialist healthcare investors, with Unity Catalog governance, backtest gating and a PM dashboard. |
+| **Agentic CRM** | CRM, agentic enrichment and multi-agent LangChain workflows in n8n for an emerging private equity manager; 4 to 5x more qualified meetings within 90 days. |
+| **AI legal review (2022)** | Early production LLM system at Optima that flags anomalous provisions in fund legal documents: two weeks to 15 minutes per 150-page document. |
+| **Meritas Technology** | Co-founder (2021 to 2023). Venture-backed fintech that harvested retail trading alpha through a gamified trading app and sold the signal data to quantitative hedge funds; 10,000 users across 85 countries. |
+| **Bark.AI** | Side project: a ~$400 autonomous patrol rover with edge AI vision. [Code →](https://github.com/NeilD-NYC/Bark.AI) |
+
+### Open source here
+
+- [**altbots-tearsheet**](https://github.com/NeilD-NYC/altbots-tearsheet): agentic pipeline that produces an institutional research tearsheet on an alternatives manager, served over MCP
+- [**Alice-ai-agent**](https://github.com/NeilD-NYC/Alice-ai-agent): n8n AI chief of staff for allocators
+- [**ai-equity-research-n8n**](https://github.com/NeilD-NYC/ai-equity-research-n8n): weekly automated equity research reports
+- [**Bark.AI**](https://github.com/NeilD-NYC/Bark.AI): autonomous rover firmware and architecture
+
+### Stack
+
+Claude Code · Databricks · Python · FastAPI · LangChain · n8n · vLLM · llama.cpp · Postgres + pgvector · Qdrant · Proxmox · Tailscale · NVIDIA Jetson · Raspberry Pi
+
+---
+
+[![Website](https://img.shields.io/badge/Web-datta.si-78dcff?style=flat)](https://datta.si)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fneildatta-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/neildatta/)
+
+📍 New York
