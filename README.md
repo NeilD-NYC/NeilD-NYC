@@ -6,7 +6,7 @@ I spent two decades underwriting hedge fund, private equity, credit and venture 
 
 Today I build AI systems for investment research, due diligence and the alternatives industry.
 
-🌐 **Portfolio and case studies: [datta.si](https://datta.si)**
+
 
 ---
 
